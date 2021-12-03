@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.disk_1, .disk_2 {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song_speed, #song_volume {
+    margin: 15px;
+    font-size: 18px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_speed {
+    float: left;
+}
+
+#song_volume {
+    float: right;
+}
+
+.play_button {
+    font-size: 25px;
+    width: 150px;
+}
+
+canvas {
+    border: 5px outset rgb(168, 48, 168);
+    border-radius: 20px;
+}
+
+
+
